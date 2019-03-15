@@ -1,2 +1,6 @@
 *.class
 *.log
+target/
+results/
+documentation/
+.idea/
